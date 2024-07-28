@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\machm\\source\\repos\\projects\\EnemyCombat2ndTry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3DECF-5295-4D90-BF54-7804733CC7EF}|EnemyCombat2ndTry\\EnemyCombat2ndTry.vcxproj|C:\\Users\\machm\\source\\repos\\projects\\EnemyCombat2ndTry\\EnemyCombat2ndTry\\EnemyCombat2ndTry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EE3DECF-5295-4D90-BF54-7804733CC7EF}|EnemyCombat2ndTry\\EnemyCombat2ndTry.vcxproj|solutionrelative:EnemyCombat2ndTry\\EnemyCombat2ndTry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyCombat2ndTry.cpp",
+              "DocumentMoniker": "C:\\Users\\machm\\source\\repos\\projects\\EnemyCombat2ndTry\\EnemyCombat2ndTry\\EnemyCombat2ndTry.cpp",
+              "RelativeDocumentMoniker": "EnemyCombat2ndTry\\EnemyCombat2ndTry.cpp",
+              "ToolTip": "C:\\Users\\machm\\source\\repos\\projects\\EnemyCombat2ndTry\\EnemyCombat2ndTry\\EnemyCombat2ndTry.cpp",
+              "RelativeToolTip": "EnemyCombat2ndTry\\EnemyCombat2ndTry.cpp",
+              "ViewState": "AQIAAGECAAAAAAAAAAAnwM8CAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-09-08T23:55:52.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

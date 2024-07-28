@@ -1,0 +1,4 @@
+spider
+zombie
+skeleton
+mummy
